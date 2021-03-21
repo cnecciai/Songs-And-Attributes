@@ -23,3 +23,6 @@ Background: Ever ask yourself, "Gosh, why is this song so good?" --> Probably no
               Step 1: pip install openpyxl
               Step 2: pip install spotipy
 
+I've attached an example spreadsheet incase
+you're just looking to get your grubby hands
+on the data instead. You're Welcome!
