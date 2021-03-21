@@ -1,4 +1,3 @@
-#Clark P Necciai 
 import spotipy as spotify
 from openpyxl import Workbook
 from openpyxl.worksheet.table import Table, TableStyleInfo
