@@ -34,10 +34,11 @@ Register on Spotify for your own Client ID and Secret ID
 It'll be on your Dashboard. Just create a new App and they'll
 be registered for you. See photo if need be.
 
-  In your Terminal/Cmd Prompt:
-  Step 1: pip install openpyxl
-  Step 2: pip install spotipy
-  Step 3: Have at it!
+          In your Terminal/Cmd Prompt:
+  
+          Step 1: pip install openpyxl
+          Step 2: pip install spotipy
+          Step 3: Have at it!
 
 I've attached an example spreadsheet incase
 you're just looking to get your grubby hands
