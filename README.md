@@ -3,7 +3,7 @@ Discovering Correlations in Spotify
 
 Purpose: Discover various correlations between large numbers of the songs
 
-How: Utilizing the --> Spotipy and Openpyxl
+How: Utilizing the --> Spotipy and Openpyxl --> Spits Out an Excel Doc... Table-Ready!
           
           Spotify Doc:
           https://developer.spotify.com/documentation/web-api/reference/
