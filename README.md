@@ -5,6 +5,8 @@ Purpose: Discover various correlations between large numbers of the songs
 
 How: Utilizing the Spotify/Spotipy API
 
+***Yes, it's working. It's just slow, okay? Trust me, "It just works." -Todd Howard***
+
 Background: Ever ask yourself, "Gosh, why is this song so good?" --> Probably not <--
           
             Well now you won't have to.
