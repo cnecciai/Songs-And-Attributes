@@ -4,8 +4,8 @@ from openpyxl import Workbook
 from openpyxl.worksheet.table import Table, TableStyleInfo
 from spotipy.oauth2 import SpotifyClientCredentials
 
-cid = '7c7aa14d1c08482f9df34d7a732255e2'
-secret = 'f718d8388dd64c7b8bc0f699be40752d'
+cid = 'USER CID'#   <-----YOUR OWN SPOTIFY ID
+secret = 'SECRET'#  <-----YOUR OWN SECRET CODE
 
 client_credentials_manager = SpotifyClientCredentials(client_id=cid, client_secret=secret)
 
@@ -48,6 +48,7 @@ def detKey(keyValue):
 
 songCount = int(input("How many songs: "))
 
+#REPLACE PLAYLIST_ID VALUE WITH ANY UIC FROM ANY SPOTIFY PLAYLIST
 for i in range(0, songCount):
     playlist_items_list = sp.playlist_items(playlist_id = '2LOxEzC4KmoWJ9NhW0kz5M', fields = 'items', limit = 1, offset = i)
 
